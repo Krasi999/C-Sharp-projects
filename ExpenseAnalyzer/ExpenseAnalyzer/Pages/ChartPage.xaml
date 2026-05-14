@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:charts="clr-namespace:Microcharts.Maui;assembly=Microcharts.Maui"
+             x:Class="ExpenseAnalyzer.Pages.ChartPage"
+             BackgroundColor="White">
+
+    <Grid RowDefinitions="Auto,*" Padding="20">
+
+        <Label Text="Expense chart"
+               FontSize="28"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               Margin="0,0,0,20"/>
+
+        <Grid Grid.Row="1" ColumnDefinitions="3*,1*">
+
+            <AbsoluteLayout x:Name="chartContainer"
+                            Grid.Column="0"
+                            HorizontalOptions="Fill"
+                            VerticalOptions="Fill">
+
+                <charts:ChartView x:Name="chartView"
+                                  AbsoluteLayout.LayoutBounds="0,0,1,1"
+                                  AbsoluteLayout.LayoutFlags="All"/>
+
+            </AbsoluteLayout>
+
+            <VerticalStackLayout x:Name="legendStack"
+                                 Grid.Column="1"
+                                 Spacing="25"
+                                 VerticalOptions="Center"
+                                 Margin="30,0,0,0"/>
+
+        </Grid>
+
+    </Grid>
+
+</ContentPage>

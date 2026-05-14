@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\bin\Debug\net10.0\Welcome.exe
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\bin\Debug\net10.0\Welcome.deps.json
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\bin\Debug\net10.0\Welcome.runtimeconfig.json
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\bin\Debug\net10.0\Welcome.dll
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\bin\Debug\net10.0\Welcome.pdb
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\obj\Debug\net10.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\obj\Debug\net10.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\obj\Debug\net10.0\Welcome.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\obj\Debug\net10.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\obj\Debug\net10.0\Welcome.dll
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\obj\Debug\net10.0\refint\Welcome.dll
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\obj\Debug\net10.0\Welcome.pdb
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\obj\Debug\net10.0\Welcome.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# projects\PS_38_Krasimir\Welcome\obj\Debug\net10.0\ref\Welcome.dll

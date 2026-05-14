@@ -1,0 +1,8 @@
+----- LOGGER -----
+Date: 23.2.2026 г. 12:53:40
+Level: Error
+EventId: 2
+Logger: FileLogger
+Message: Failed login attempt for Krasi.
+------------------
+

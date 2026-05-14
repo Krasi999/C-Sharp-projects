@@ -1,0 +1,12 @@
+--- Log Entry ---
+ID: 3
+Timestamp: 26.2.2026 г. 12:45:29
+Message: Deleted users: Albert Jackson
+-----------------
+
+--- Log Entry ---
+ID: 1
+Timestamp: 26.2.2026 г. 12:43:49
+Message: Added user: Kras
+-----------------
+

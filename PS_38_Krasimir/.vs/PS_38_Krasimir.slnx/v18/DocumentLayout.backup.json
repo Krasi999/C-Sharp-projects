@@ -1,0 +1,688 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\windows\\logdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\windows\\logdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\components\\loggerlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\components\\loggerlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\viewmodels\\loglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\viewmodels\\loglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\command\\realaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\command\\realaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\viewmodels\\studentslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\viewmodels\\studentslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\windows\\logswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\windows\\logswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\components\\studentslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\components\\studentslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\windows\\logdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\windows\\logdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\components\\loggerlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\components\\loggerlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\components\\studentslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\components\\studentslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\windows\\logswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\windows\\logswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcomeextended\\loggers\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcomeextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\extras\\passwordmaskconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\extras\\passwordmaskconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E76FB42C-7863-4E72-B47A-BE32171F9E7A}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D4A1F7-911E-409F-8AD4-5432E318A948}|WpfExample\\WpfExample.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\wpfexample\\addcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D4A1F7-911E-409F-8AD4-5432E318A948}|WpfExample\\WpfExample.csproj|solutionrelative:wpfexample\\addcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D4A1F7-911E-409F-8AD4-5432E318A948}|WpfExample\\WpfExample.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\wpfexample\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D4A1F7-911E-409F-8AD4-5432E318A948}|WpfExample\\WpfExample.csproj|solutionrelative:wpfexample\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12714989-D9E2-5E8C-EBDE-3D65E2211347}|Welcome\\Welcome.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12714989-D9E2-5E8C-EBDE-3D65E2211347}|Welcome\\Welcome.csproj|solutionrelative:welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6589DEDB-63B5-49AE-AA2C-EAFBA9EE79CD}|EasyMVVM\\EasyMVVM.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\easymvvm\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6589DEDB-63B5-49AE-AA2C-EAFBA9EE79CD}|EasyMVVM\\EasyMVVM.csproj|solutionrelative:easymvvm\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6589DEDB-63B5-49AE-AA2C-EAFBA9EE79CD}|EasyMVVM\\EasyMVVM.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\easymvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6589DEDB-63B5-49AE-AA2C-EAFBA9EE79CD}|EasyMVVM\\EasyMVVM.csproj|solutionrelative:easymvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D4A1F7-911E-409F-8AD4-5432E318A948}|WpfExample\\WpfExample.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\wpfexample\\nameslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D4A1F7-911E-409F-8AD4-5432E318A948}|WpfExample\\WpfExample.csproj|solutionrelative:wpfexample\\nameslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\datalayer\\database\\databaselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\database\\databaselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7584AE0C-C425-4716-A1CB-E820600585BB}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcomeextended\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEF9F4-9138-41DB-8FAA-7C952B3E27B1}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12714989-D9E2-5E8C-EBDE-3D65E2211347}|Welcome\\Welcome.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12714989-D9E2-5E8C-EBDE-3D65E2211347}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12714989-D9E2-5E8C-EBDE-3D65E2211347}|Welcome\\Welcome.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12714989-D9E2-5E8C-EBDE-3D65E2211347}|Welcome\\Welcome.csproj|solutionrelative:welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12714989-D9E2-5E8C-EBDE-3D65E2211347}|Welcome\\Welcome.csproj|c:\\users\\admin\\desktop\\c# projects\\ps_38_krasimir\\welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12714989-D9E2-5E8C-EBDE-3D65E2211347}|Welcome\\Welcome.csproj|solutionrelative:welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\ViewModels\\LogList.cs",
+              "RelativeDocumentMoniker": "UI\\ViewModels\\LogList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\ViewModels\\LogList.cs",
+              "RelativeToolTip": "UI\\ViewModels\\LogList.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwE0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:55:29.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoggerList.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Components\\LoggerList.xaml",
+              "RelativeDocumentMoniker": "UI\\Components\\LoggerList.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Components\\LoggerList.xaml",
+              "RelativeToolTip": "UI\\Components\\LoggerList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T09:28:21.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoggerList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Components\\LoggerList.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Components\\LoggerList.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Components\\LoggerList.xaml.cs",
+              "RelativeToolTip": "UI\\Components\\LoggerList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:26:49.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsList.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Components\\StudentsList.xaml",
+              "RelativeDocumentMoniker": "UI\\Components\\StudentsList.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Components\\StudentsList.xaml",
+              "RelativeToolTip": "UI\\Components\\StudentsList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T12:15:55.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\LogDetails.xaml",
+              "RelativeDocumentMoniker": "UI\\Windows\\LogDetails.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\LogDetails.xaml",
+              "RelativeToolTip": "UI\\Windows\\LogDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T12:50:08.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "UI\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T12:38:16.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\ViewModels\\StudentsList.cs",
+              "RelativeDocumentMoniker": "UI\\ViewModels\\StudentsList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\ViewModels\\StudentsList.cs",
+              "RelativeToolTip": "UI\\ViewModels\\StudentsList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:56:31.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\LogDetails.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Windows\\LogDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\LogDetails.xaml.cs",
+              "RelativeToolTip": "UI\\Windows\\LogDetails.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:50:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\LogsWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\Windows\\LogsWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\LogsWindow.xaml",
+              "RelativeToolTip": "UI\\Windows\\LogsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-26T09:24:38.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RealayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Command\\RealayCommand.cs",
+              "RelativeDocumentMoniker": "UI\\Command\\RealayCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Command\\RealayCommand.cs",
+              "RelativeToolTip": "UI\\Command\\RealayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:53:59.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UI\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\AssemblyInfo.cs",
+              "RelativeToolTip": "UI\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:28:05.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\App.xaml",
+              "RelativeDocumentMoniker": "UI\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\App.xaml",
+              "RelativeToolTip": "UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-02T12:38:45.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentsList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Components\\StudentsList.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Components\\StudentsList.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Components\\StudentsList.xaml.cs",
+              "RelativeToolTip": "UI\\Components\\StudentsList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:16:03.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\LogsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Windows\\LogsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\LogsWindow.xaml.cs",
+              "RelativeToolTip": "UI\\Windows\\LogsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:25:00.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UI\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:38:25.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Data\\UserData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeToolTip": "WelcomeExtended\\Data\\UserData.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:42:56.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoggerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:37:40.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoggerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:35:29.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HashLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Loggers\\HashLogger.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\HashLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Loggers\\HashLogger.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\HashLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:01:07.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Loggers\\FileLogger.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Loggers\\FileLogger.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:29:52.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\App.xaml.cs",
+              "RelativeToolTip": "UI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:35:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ActionOnError.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Others\\ActionOnError.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\ActionOnError.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Others\\ActionOnError.cs",
+              "RelativeToolTip": "WelcomeExtended\\Others\\ActionOnError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:51:01.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Program.cs",
+              "RelativeToolTip": "WelcomeExtended\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:56:09.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PasswordMaskConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Extras\\PasswordMaskConverter.cs",
+              "RelativeDocumentMoniker": "UI\\Extras\\PasswordMaskConverter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\Extras\\PasswordMaskConverter.cs",
+              "RelativeToolTip": "UI\\Extras\\PasswordMaskConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:33:18.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T10:03:36.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WpfExample\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfExample\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WpfExample\\App.xaml.cs",
+              "RelativeToolTip": "WpfExample\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:38:58.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WpfExample\\AddCommand.cs",
+              "RelativeDocumentMoniker": "WpfExample\\AddCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WpfExample\\AddCommand.cs",
+              "RelativeToolTip": "WpfExample\\AddCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:00:48.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T10:29:29.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\EasyMVVM\\ViewModel.cs",
+              "RelativeDocumentMoniker": "EasyMVVM\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\EasyMVVM\\ViewModel.cs",
+              "RelativeToolTip": "EasyMVVM\\ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:18:23.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\EasyMVVM\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EasyMVVM\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\EasyMVVM\\App.xaml.cs",
+              "RelativeToolTip": "EasyMVVM\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:48:56.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NamesList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WpfExample\\NamesList.cs",
+              "RelativeDocumentMoniker": "WpfExample\\NamesList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WpfExample\\NamesList.cs",
+              "RelativeToolTip": "WpfExample\\NamesList.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:54:29.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\Program.cs",
+              "RelativeToolTip": "DataLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:42:06.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DatabaseLog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\Database\\DatabaseLog.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Database\\DatabaseLog.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\Database\\DatabaseLog.cs",
+              "RelativeToolTip": "DataLayer\\Database\\DatabaseLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:13:45.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Database\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "DataLayer\\Database\\DatabaseContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:04:37.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ba71154a7b44d057354e94bf9136ff00912660e0c8e1435d76b141387af3b90b\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAJYBAAAAAAAAAADwv6gBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:23:40.381Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DatabaseUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\Model\\DatabaseUser.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Model\\DatabaseUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\Model\\DatabaseUser.cs",
+              "RelativeToolTip": "DataLayer\\Model\\DatabaseUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:54:59.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delegates.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Others\\Delegates.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\Delegates.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Others\\Delegates.cs",
+              "RelativeToolTip": "WelcomeExtended\\Others\\Delegates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:41:48.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T15:54:07.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Helpers\\UserHelper.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\UserHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\WelcomeExtended\\Helpers\\UserHelper.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\UserHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:23:56.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\Welcome\\Program.cs",
+              "RelativeDocumentMoniker": "Welcome\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\Welcome\\Program.cs",
+              "RelativeToolTip": "Welcome\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:58:12.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\Welcome\\View\\UserView.cs",
+              "RelativeDocumentMoniker": "Welcome\\View\\UserView.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\Welcome\\View\\UserView.cs",
+              "RelativeToolTip": "Welcome\\View\\UserView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T10:38:03.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserRolesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\Welcome\\Others\\UserRolesEnum.cs",
+              "RelativeDocumentMoniker": "Welcome\\Others\\UserRolesEnum.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\PS_38_Krasimir\\Welcome\\Others\\UserRolesEnum.cs",
+              "RelativeToolTip": "Welcome\\Others\\UserRolesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T10:11:36.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

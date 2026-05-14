@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseAnalyzer\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\database\\expensedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\database\\expensedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\pages\\expenselistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\pages\\expenselistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\pages\\expenselistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\pages\\expenselistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\pages\\enteramountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\pages\\enteramountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\pages\\enteramountpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\pages\\enteramountpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\pages\\chartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\pages\\chartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\pages\\chartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\pages\\chartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\pages\\addexpensepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\pages\\addexpensepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\pages\\addexpensepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\pages\\addexpensepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|c:\\users\\admin\\desktop\\c# projects\\expenseanalyzer\\expenseanalyzer\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE691207-C137-7E65-C322-163EBD5F6737}|ExpenseAnalyzer\\ExpenseAnalyzer.csproj|solutionrelative:expenseanalyzer\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\AppShell.xaml.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:44:12.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\MainPage.xaml",
+              "RelativeToolTip": "ExpenseAnalyzer\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-10T16:43:27.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\MainPage.xaml.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:43:44.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\MauiProgram.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:01:46.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\AppShell.xaml",
+              "RelativeToolTip": "ExpenseAnalyzer\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T15:32:33.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\App.xaml.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:37:02.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\App.xaml",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\App.xaml",
+              "RelativeToolTip": "ExpenseAnalyzer\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T15:32:30.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpenseDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Database\\ExpenseDatabase.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Database\\ExpenseDatabase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Database\\ExpenseDatabase.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\Database\\ExpenseDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:36:41.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpenseListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\ExpenseListPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Pages\\ExpenseListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\ExpenseListPage.xaml.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\Pages\\ExpenseListPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:37:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExpenseListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\ExpenseListPage.xaml",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Pages\\ExpenseListPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\ExpenseListPage.xaml",
+              "RelativeToolTip": "ExpenseAnalyzer\\Pages\\ExpenseListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-10T17:37:28.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnterAmountPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\EnterAmountPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Pages\\EnterAmountPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\EnterAmountPage.xaml.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\Pages\\EnterAmountPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:36:45.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnterAmountPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\EnterAmountPage.xaml",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Pages\\EnterAmountPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\EnterAmountPage.xaml",
+              "RelativeToolTip": "ExpenseAnalyzer\\Pages\\EnterAmountPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-10T17:36:35.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\ChartPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Pages\\ChartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\ChartPage.xaml.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\Pages\\ChartPage.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:38:44.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\ChartPage.xaml",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Pages\\ChartPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\ChartPage.xaml",
+              "RelativeToolTip": "ExpenseAnalyzer\\Pages\\ChartPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-10T17:38:24.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddExpensePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\AddExpensePage.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Pages\\AddExpensePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\AddExpensePage.xaml.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\Pages\\AddExpensePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:43:11.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddExpensePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\AddExpensePage.xaml",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Pages\\AddExpensePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Pages\\AddExpensePage.xaml",
+              "RelativeToolTip": "ExpenseAnalyzer\\Pages\\AddExpensePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-10T16:42:26.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\Models\\Expense.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:33:25.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "ExpenseAnalyzer\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C# projects\\ExpenseAnalyzer\\ExpenseAnalyzer\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "ExpenseAnalyzer\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:15:27.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

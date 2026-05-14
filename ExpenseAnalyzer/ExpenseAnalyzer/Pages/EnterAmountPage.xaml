@@ -1,0 +1,23 @@
+<ContentPage
+ xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+ xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+ x:Class="ExpenseAnalyzer.Pages.EnterAmountPage">
+
+    <VerticalStackLayout Padding="20" Spacing="20">
+
+        <Label
+   x:Name="categoryLabel"
+   FontSize="22"/>
+
+        <Entry
+   x:Name="amountEntry"
+   Placeholder="Enter amount (€)"
+   Keyboard="Numeric"/>
+
+        <Button
+   Text="Add Expense"
+   Clicked="AddExpense"/>
+
+    </VerticalStackLayout>
+
+</ContentPage>

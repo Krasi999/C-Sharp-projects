@@ -1,0 +1,34 @@
+﻿<ContentPage
+ xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+ xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+ x:Class="ExpenseAnalyzer.MainPage"
+ Title="Expense Analyzer">
+
+    <VerticalStackLayout Padding="20" Spacing="20">
+
+        <Label
+   Text="Monthly Expense Summary"
+   FontSize="22"
+   HorizontalOptions="Center"/>
+
+        <Label
+   x:Name="totalLabel"
+   FontSize="20"
+   Text="Total: 0 €"
+   HorizontalOptions="Center"/>
+
+        <Button
+   Text="Add Expense"
+   Clicked="OnAddExpense"/>
+
+        <Button
+   Text="List of Expenses"
+   Clicked="OnListExpenses"/>
+
+        <Button
+   Text="Expense Chart (%)"
+   Clicked="OnChart"/>
+
+    </VerticalStackLayout>
+
+</ContentPage>
